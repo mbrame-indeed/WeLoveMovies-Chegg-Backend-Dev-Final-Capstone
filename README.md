@@ -11,6 +11,7 @@ Test results:
  PASS  test/routes/theaters.test.js
  
  PASS  test/routes/reviews.test.js
+ 
   ● Console
 
     console.log
@@ -20,8 +21,13 @@ Test results:
 
  PASS  test/routes/movies.test.js
 
+
 Test Suites: 3 passed, 3 total
+
 Tests:       12 passed, 12 total
+
 Snapshots:   0 total
+
 Time:        2.478 s
+
 Ran all test suites.
