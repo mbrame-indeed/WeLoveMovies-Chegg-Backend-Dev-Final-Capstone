@@ -9,6 +9,7 @@ Test results:
 > jest
 
  PASS  test/routes/theaters.test.js
+ 
  PASS  test/routes/reviews.test.js
   ● Console
 
